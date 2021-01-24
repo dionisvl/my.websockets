@@ -2,15 +2,22 @@
 
 ## chat_ratchet
 https://code-boxx.com/php-live-chat-websocket/
-- основывается на Ratchet
+- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Ratchet
 - JS - vanilla
-- сам чат не тестировал
+- пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+
+run server:
+```
+php -q C:\OSpanel\domains\test\websockets\chat_ratchet\2-chat-server.php
+```
+Open url:  
+http://test/websockets/chat_ratchet/3a-chat-client.php
 
 ## chat_jq1
 https://phppot.com/php/simple-php-chat-using-websocket/
 - jquery: jquery-1.9.1
-- вообще старый код
-- сам чат работает и выглядит симпатично
+- пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ
+- пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 run server:
 ```
@@ -23,8 +30,8 @@ http://test/websockets/chat_jq1/index.php
 https://nomadphp.com/blog/92/build-a-chat-system-with-php-sockets-and-w3c-web-sockets-apis
 
 - jquery 3.3.1
-- код содержит ошибки и НЕ работает
-- чат работает, дизайн не плох, выровнен по центру
+- пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+- пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 
 run server:  
 ```
